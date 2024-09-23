@@ -2,7 +2,9 @@
  
 ![image](https://github.com/user-attachments/assets/86f52353-75db-452e-a6ae-27f0c1d3500e)
 
- ![image](https://github.com/user-attachments/assets/d60a5488-8612-45fd-a05c-eb396187eab1)
+ ![image](https://github.com/user-attachments/assets/17db2d2a-9525-4c8a-99f7-4945a1cdda4b)
+
+-------------
 
 Welcome to my Fashion **MNIST Image Classifier** project, where Machine Learning meets Mobile App Development! 
 

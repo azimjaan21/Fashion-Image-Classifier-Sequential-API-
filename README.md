@@ -43,4 +43,7 @@ Stay tuned for the Flutter app release, where the deep learning model will power
 Feel free to explore the code, dive into the model, and follow along as I continue merging mobile engineering with the exciting world of AI and deep learning. Let’s build something amazing together! 👨‍💻💡
 
 
-
+--------
+![image](https://github.com/user-attachments/assets/610623a2-4266-424a-9353-7426334fe18f)
+--------
+☘️LinkTree: https://linktr.ee/azimjaantech

@@ -16,7 +16,7 @@ This project combines my 1.5 years of Flutter development experience and my new 
 
 **🧠 Model Creation:** Built with TensorFlow and Keras to classify grayscale fashion images.
 
-**📊 Training & Evaluation: **Trained on 60,000 images and evaluated on 10,000 test images with impressive accuracy.
+**📊 Training & Evaluation:** Trained on 60,000 images and evaluated on 10,000 test images with impressive accuracy.
 
 **🔧 Deployment:** The model was optimized and converted to TensorFlow Lite for smooth integration into mobile apps.
 
